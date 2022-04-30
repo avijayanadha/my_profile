@@ -13,15 +13,15 @@ const commands = {
                 •	Ember JS - 70%
                 •	Node JS - 60%
                 •	Data Structures - 75%
-                •	Python - 50% [learning]
-                •	PLSQL - 30% [learning]
-                •	Jenkins - 40%
-                •	Docker - 40%
                 •	Gulp - 80%
                 •	Babel - 80%
                 •	Git - 90%
                 •	Restful APIs - 80%
                 •	Junit - 80%
+                •	Jenkins - 40%
+                •	Docker - 40%
+                •	Python - 50% [learning]
+                •	PLSQL - 30% [learning]
                 `
             }
         },
@@ -45,22 +45,23 @@ const commands = {
             usage: '',
             fn: () => {
                 return `Aug 2019 to Present (Technical Lead)
+                    \n
                     •	Worked as part of the Merck Development Team.
-                    •	I led the effort to build the Dashboard application that allows users to access all internal tools with a single login. My responsibilities included the initial Research, Architecture, Coding, Unit Testing, and Deployment Support.
+                    •	Build the Dashboard application that allowed users to access all internal tools with a single login. My responsibilities included the initial Research, Architecture, Coding, Unit Testing, and Deployment. Actively participated in the code review.
                     •	Contribute to multiple projects as a full-stack developer.
                     •	Actively participated in the code review.
-                    \n___________________________________________\n
+                    \n
                     August 2017 to August 2019 (Senior Software Engineer)
                     •	Worked as part of the Expedia LXPC Development team, primarily tasked with the development, maintenance, and deployment of the LXPC web application.
                     •	Actively participated in the code review process to manage and improve the code quality of the codebase.
                     •	Improved the automation test coverage significantly, which helped reduce the number of reported defects.
-                    •	Single Handedly worked with a Third-party team to integrate their service across the Expedia LXPC application.
-                    \n___________________________________________\n
+                    •	Worked with a Third-party team to integrate their service across the Expedia LXPC application which helps increase customer satisfaction by 80%.
+                    \n
                     June 2016 to July 2017 (Software Engineer)
-                    •	Worked as part of the Worldsmart development team for building a web application, which provides a centralized system for reporting, analytics, pricing, promotion, and inventory data.
+                    •	Worked as part of the Worldsmart development team. My responsibilities included coding and unit testing.
                     •	Architected and developed an automation testing framework from scratch.
-                    \n___________________________________________\n
-                    November 2014 to July 2016 (Software Engineer)
+                    \n
+                    November 2014 to June 2016 (Software Engineer)
                     •	Focused on UI development.
                     •	Oversaw a team of three to write scalable modular code using Vanilla JS.
                     •	Created a web app MVP to Build a visualization tool to analyze user sentiments using React and D3 JS.
