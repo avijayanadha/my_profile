@@ -17,22 +17,6 @@ export default function Term() {
 
             Let's type some commands ;)
             
-@@@@@@@ _________________________
-@@@@@@ /_/----------------------\\_\\
-@@@@@@| |_ _ _ _ _ _ _ _ _ _ _ _| |
-@@@@@@| |_ _ _ _ _ A _ _ _ _ _ _| |
-@@@@@@| |_ _ _ _ _Web _ _ _ _ _ | |
-@@@@@@| |_ _ _ Developer _ _ _ _| |
-@@@@@@| |_ _ _ _ _ _ _ _ _ _ _ _| |
-@@@@@@|__\\---------------------/__|
-@@@@@@ \\_________________________/
-@@,---\_________[]____________/---------,
-@/__________/______________\ __________/|
-/_____________________________________/|
-|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|__|
-|_ _ _ _ _ _ _ _ _ _ [-------]_ |___|__|
-|_ _o o o_ _ _ _ _ _ _ _ _[-------]_|_/
-|__________________________________ |/
 
             Type any of the following commands. For example, if you want to know my Tech Stack type Tech.
             
@@ -70,7 +54,8 @@ export default function Term() {
                 maxHeight: null,
                 overflow: 'auto',
                 height: '100%',
-                width: '100%',     
+                width: '100%',   
+                borderRadius: 0  
             }}
             styleEchoBack='fullInherit'
             contentStyle={{ color: '#fff' , fontWeight:'normal', paddingLeft: null}} // Text colour
