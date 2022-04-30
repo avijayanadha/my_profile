@@ -14,14 +14,14 @@ export default function Term() {
             
             
             Type any of the following commands. For example, if you want to know my Tech Stack type Tech.
-            *_______**_______*
+            ______________
             •	Tech
             •	Skills
             •	Projects
             •	About
             •	Github
             •	Contact
-            *_______**_______*`}
+            ______________`}
             commands={{
               ...cmds,
               more: {
