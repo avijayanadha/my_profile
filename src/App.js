@@ -13,15 +13,15 @@ export default function Term() {
             Want to know more?
             
             
-            Type any of the following commands, for example if you are intrested in my technical stack just type Tech.
-            ____________________________________
+            Type any of the following commands. For example, if you want to know my Tech Stack type Tech.
+            *_______**_______*
             •	Tech
             •	Skills
             •	Projects
             •	About
             •	Github
             •	Contact
-            ____________________________________`}
+            *_______**_______*`}
             commands={{
               ...cmds,
               more: {
